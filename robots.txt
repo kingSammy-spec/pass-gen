@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pass-gen-liard-tau.vercel.app/sitemap.xml
